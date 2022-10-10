@@ -3,4 +3,3 @@ languageCode = 'en-us'
 title = 'Stuart John Wayland'
 theme = "hugo-coder"
 defaultContentLanguage = "en"
-publishDir = "docs"
