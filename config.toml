@@ -3,3 +3,44 @@ languageCode = 'en-us'
 title = 'Stuart John Wayland'
 theme = "hugo-coder"
 defaultContentLanguage = "en"
+
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+author = "Jeremy Wayland"
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "Jeremy Wayland's personal website"
+keywords = "blog,developer,personal"
+info = ["PhD Candidate", "Helmholtz Munich & TUM"]
+avatarurl = "images/portrait.jpeg"
+#gravatar =  
+dateFormat = "January 2, 2006"
+since = 2022
+# Git Commit in Footer, uncomment the line below to enable it
+#commit = "https://github.com/luizdepra/hugo-coder/tree/"
+# Right To Left, shift content direction for languagues such as Arabic
+rtl = false
+
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "dark"
+
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = true
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
