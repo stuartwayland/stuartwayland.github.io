@@ -8,7 +8,7 @@ publishdir = "./docs"
 [params]
 author = "Stuart Wayland"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Jeremy Wayland's personal website"
+description = "Stuart Wayland's personal website"
 keywords = "blog,developer,personal"
 info = ["Masters Student", "University of California, Santa Cruz"]
 avatarurl = "images/head_shot.jpg"
