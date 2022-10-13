@@ -5,6 +5,15 @@
     <loc>https://stuartwayland.github.io/about/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://stuartwayland.github.io/cv/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://stuartwayland.github.io/extracurriculars/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://stuartwayland.github.io/research/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://stuartwayland.github.io/authors/</loc>
   </url><url>
     <loc>https://stuartwayland.github.io/categories/</loc>

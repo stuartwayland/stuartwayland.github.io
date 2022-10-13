@@ -11,7 +11,7 @@ author = "Stuart Wayland"
 description = "Stuart Wayland's personal website"
 keywords = "blog,developer,personal"
 info = ["Masters Student", "University of California, Santa Cruz"]
-avatarurl = "images/head_shot.jpg"
+avatarurl = "images/portrait.jpg"
 #gravatar =  
 dateFormat = "January 2, 2006"
 since = 2022
@@ -118,7 +118,7 @@ url = "research/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 5
-url = ""
+url = "cv/CV_wayland.pdf"
 
 
 [[languages.en.menu.main]]

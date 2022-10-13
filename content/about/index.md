@@ -1,5 +1,6 @@
 # About
 
+
 Hi everyone! My name is Stuart (I aslo go by Stu) and I'm a 1st year computer science masters student at the University of California, Santa Cruz ([Baskin School of Engineering](https://engineering.ucsc.edu/)). I'm so excited to be starting my graduate studies at such an amazing place, and am looking forward to taking courses and meeting people as I search for a research topic for my master's thesis. At the moment, I'm interested in exploring the intersectionality of mathematics and computer science, and hope to continue to study mathematics capable of bringing new perspective to familiar computer science problems. Check out my Research to see what I've been up to! 
 
 
