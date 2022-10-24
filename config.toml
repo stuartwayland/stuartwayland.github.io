@@ -120,6 +120,10 @@ name = "CV"
 weight = 5
 url = "cv/CV_wayland.pdf"
 
+[[languages.en.menu.main]]
+name = "Transcripts"
+weight = 5
+url = "transcripts/transcripts.pdf"
 
 [[languages.en.menu.main]]
 name = "Extracurriculars"
