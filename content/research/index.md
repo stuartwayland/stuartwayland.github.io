@@ -3,7 +3,7 @@
 
 ### Here at Santa Cruz
 
-Having just arrived at UCSC, I am not working on any projects at the moment. I am currently doing coursework in Abstract Algebra and Algorithms and Complexity, and I look forward to becoming more aqquainted with the amazing research groups we have here at Santa Cruz. I'll keep you all posted when I start working on something! 
+Since arriving here at UCSC, I've the pleasure of joining Professor Alexandra Kolla's Quantum Information Processing and Algorithms research group. 
 
 ### Gerrymandering Project 
 
