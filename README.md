@@ -1,2 +1,1 @@
-# stuartwayland.github.io
-Stuart's Website
+# Stuart's Personal Website

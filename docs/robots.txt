@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://stuartwayland.github.com/sitemap.xml
